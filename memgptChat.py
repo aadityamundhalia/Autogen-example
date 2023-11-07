@@ -15,7 +15,7 @@ from memgpt.persistence_manager import InMemoryStateManager, InMemoryStateManage
 from memgpt.autogen.memgpt_agent import create_autogen_memgpt_agent, create_memgpt_autogen_agent_from_config
 import openai
 
-openai.api_key = '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'
+openai.api_key = ''
 
 config_list = [
     {
